@@ -1,0 +1,23 @@
+{
+    "Float": {},
+    "Vector": {
+        "colossal_EdgeFadeRange": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0,
+            "w": 0
+        },
+        "colossal_EdgeNoise": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0,
+            "w": 0
+        }
+    },
+    "prefabIdentifierInfos": [
+        {
+            "m_Name": "Grey Paving Stone",
+            "m_Type": "SurfacePrefab"
+        }
+    ]
+}
