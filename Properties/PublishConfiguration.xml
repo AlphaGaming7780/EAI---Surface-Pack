@@ -13,7 +13,11 @@ This pack contains all the surface from the ELT - Surface pack during the Thunde
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/icon.png" />
 	<!--Screenshot, can be set multiple times-->
-	<Screenshot Value="" />
+	<Screenshot Value="Properties/Screenshots/Bricks.png" />
+	<Screenshot Value="Properties/Screenshots/Concrete.png" />
+	<Screenshot Value="Properties/Screenshots/Ground.png" />
+	<Screenshot Value="Properties/Screenshots/Tiles.png" />
+	<Screenshot Value="Properties/Screenshots/Wood.png" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="" />
 	<!--Link to the forum post where the mod can be discussed-->

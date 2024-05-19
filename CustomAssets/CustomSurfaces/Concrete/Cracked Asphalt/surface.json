@@ -1,7 +1,8 @@
 {
-    "Float": {
-        "colossal_UVScale": 0.5
-    },
+  "Float": {
+    "colossal_UVScale": 0.5,
+    "colossal_DecalLayerMask": 3
+  },
     "Vector": {
         "colossal_AreaParameters": {
             "x": 0.5,
