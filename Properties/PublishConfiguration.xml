@@ -13,17 +13,17 @@ This pack contains all the surface from the ELT - Surface pack during the Thunde
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/icon.png" />
 	<!--Screenshot, can be set multiple times-->
-	<Screenshot Value="Properties/Screenshots/Bricks.png" />
-	<Screenshot Value="Properties/Screenshots/Concrete.png" />
-	<Screenshot Value="Properties/Screenshots/Ground.png" />
-	<Screenshot Value="Properties/Screenshots/Tiles.png" />
-	<Screenshot Value="Properties/Screenshots/Wood.png" />
+	<Screenshot Value="Properties/Screenshots/Bricks.jpg" />
+	<Screenshot Value="Properties/Screenshots/Concrete.jpg" />
+	<Screenshot Value="Properties/Screenshots/Ground.jpg" />
+	<Screenshot Value="Properties/Screenshots/Tiles.jpg" />
+	<Screenshot Value="Properties/Screenshots/Wood.jpg" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="" />
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.0.0" />
+	<ModVersion Value="1.1.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.1.*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -31,8 +31,8 @@ This pack contains all the surface from the ELT - Surface pack during the Thunde
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
 	<!--<ChangeLog Value="" />-->
   <ChangeLog>
-# 1.0.0
-* Initial Release
+# 1.1.0
+- Updated for EAI 1.1.0.
   </ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="" Url="" />
