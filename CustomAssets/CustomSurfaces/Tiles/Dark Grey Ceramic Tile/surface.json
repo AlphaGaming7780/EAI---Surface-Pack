@@ -1,6 +1,7 @@
 {
   "Float": {
-    "colossal_DecalLayerMask": 3
+    "colossal_DecalLayerMask": 3,
+    "colossal_EdgeNormal": 0
   },
   "Vector": {
     "colossal_EdgeFadeRange": {

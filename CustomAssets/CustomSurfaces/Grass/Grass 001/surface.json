@@ -4,13 +4,13 @@
 	},
 	"Vector": {
 		"colossal_EdgeFadeRange": {
-			"x": 0.5,
-			"y": 0.5,
+			"x": 0.75,
+			"y": 0.25,
 			"z": 0,
 			"w": 0
 		},
 		"colossal_EdgeNoise": {
-			"x": 0,
+			"x": 0.5,
 			"y": 0.5,
 			"z": 0,
 			"w": 0
@@ -18,7 +18,7 @@
 	},
 	"prefabIdentifierInfos": [
 		{
-			"m_Name": "Wood 003",
+			"m_Name": "EAI - Surface Pack Ground Grass 001 Surface",
 			"m_Type": "SurfacePrefab"
 		}
 	]
