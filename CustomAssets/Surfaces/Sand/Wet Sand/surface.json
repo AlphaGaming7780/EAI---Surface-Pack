@@ -1,0 +1,17 @@
+{
+	"Float": {
+		"colossal_UVScale": 0.25,
+		"colossal_EdgeNormal": 0
+	},
+	"Vector": {},
+	"prefabIdentifierInfos": [
+		{
+			"m_Name": "EAI - Surface Pack Ground Wet Sand Surface",
+			"m_Type": "SurfacePrefab"
+		},
+		{
+			"m_Name": "Wet Sand",
+			"m_Type": "SurfacePrefab"
+		}
+	]
+}

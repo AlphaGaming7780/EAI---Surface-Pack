@@ -1,0 +1,13 @@
+{
+	"Float": {
+		"colossal_EdgeNormal": 0,
+		"colossal_UVScale": 0.2
+	},
+	"Vector": {},
+	"prefabIdentifierInfos": [
+		{
+			"m_Name": "EAI - Surface Pack Ground Rocky Sand Surface",
+			"m_Type": "SurfacePrefab"
+		}
+	]
+}

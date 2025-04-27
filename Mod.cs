@@ -28,7 +28,7 @@ namespace EAI_Surfaces_Pack
         public void OnDispose()
         {
             log.Info(nameof(OnDispose));
-            ExtraAssetsImporter.EAI.UnLoadCustomAssets(pathToModFolder);
+            //ExtraAssetsImporter.EAI.UnLoadCustomAssets(pathToModFolder);
         }
     }
 }
